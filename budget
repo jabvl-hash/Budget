@@ -1,0 +1,1437 @@
+{
+ "app": "mon-budget",
+ "version": 2,
+ "exportedAt": "2026-10-16T12:39:37.149549Z",
+ "model": {
+  "epargne": [
+   {
+    "l": "Livret A La Banque Postale (crédit travaux)",
+    "v": 19213
+   },
+   {
+    "l": "Livret+ Fortuneo",
+    "v": 10
+   }
+  ],
+  "inv": {
+   "autre": 0,
+   "av": 0,
+   "cto": 0,
+   "pea": 0
+  },
+  "jour": 26,
+  "lines": [
+   {
+    "a": "C",
+    "h": 800,
+    "id": "d0",
+    "l": "Loyer Nouzilly",
+    "o": 800,
+    "t": "fixe"
+   },
+   {
+    "a": "C",
+    "h": 783.42,
+    "id": "d1",
+    "l": "Prêt n° …3468",
+    "o": 783.42,
+    "t": "fixe"
+   },
+   {
+    "a": "C",
+    "h": 722.46,
+    "id": "d2",
+    "l": "Prêt travaux 5,5 % n° …0531",
+    "o": 722.46,
+    "t": "fixe"
+   },
+   {
+    "a": "C",
+    "h": 157,
+    "id": "d3",
+    "l": "GMF assurances",
+    "o": 157,
+    "t": "fixe"
+   },
+   {
+    "a": "C",
+    "h": 151.9,
+    "id": "d4",
+    "l": "Mutuelle UNEO",
+    "o": 151.9,
+    "t": "fixe"
+   },
+   {
+    "a": "C",
+    "h": 134,
+    "id": "d5",
+    "l": "TotalEnergies (2 contrats)",
+    "o": 134,
+    "t": "fixe"
+   },
+   {
+    "a": "C",
+    "h": 41,
+    "id": "d6",
+    "l": "Eau SAUR",
+    "o": 41,
+    "t": "fixe"
+   },
+   {
+    "a": "C",
+    "h": 56,
+    "id": "d7",
+    "l": "Taxe d'habitation (671 €/an)",
+    "o": 56,
+    "t": "fixe"
+   },
+   {
+    "a": "C",
+    "h": 2.6,
+    "id": "d8",
+    "l": "Frais de compte BNP",
+    "o": 2.6,
+    "t": "fixe"
+   },
+   {
+    "a": "C",
+    "h": 1055,
+    "id": "d9",
+    "l": "Scolarités",
+    "o": 1055,
+    "t": "fixe"
+   },
+   {
+    "a": "C",
+    "h": 400,
+    "id": "d10",
+    "l": "Conso courante Soline",
+    "o": 400,
+    "t": "fixe"
+   },
+   {
+    "a": "C",
+    "h": 50,
+    "id": "d11",
+    "l": "Don mensuel",
+    "o": 50,
+    "t": "fixe"
+   },
+   {
+    "a": "C",
+    "h": 37,
+    "id": "d31",
+    "l": "Assurance-vie Allianz (110,89 €/trim., sur le commun à partir de novembre)",
+    "o": 37,
+    "t": "fixe"
+   },
+   {
+    "a": "C",
+    "h": 66,
+    "id": "d12",
+    "l": "Péages Bip&Go",
+    "o": 60,
+    "t": "contraint"
+   },
+   {
+    "a": "F",
+    "h": 12.14,
+    "id": "d16",
+    "l": "Spotify",
+    "o": 12.14,
+    "t": "fixe"
+   },
+   {
+    "a": "F",
+    "h": 25,
+    "id": "d17",
+    "l": "Épargne des enfants (5 × 15 € par trimestre)",
+    "o": 25,
+    "t": "fixe"
+   },
+   {
+    "a": "P",
+    "h": 25,
+    "id": "d24",
+    "l": "Bouygues Telecom",
+    "o": 25,
+    "t": "fixe"
+   },
+   {
+    "a": "P",
+    "h": 35,
+    "id": "d25",
+    "l": "Starlink",
+    "o": 35,
+    "t": "fixe"
+   },
+   {
+    "a": "P",
+    "h": 7.99,
+    "id": "d26",
+    "l": "Netflix",
+    "o": 7.99,
+    "t": "fixe"
+   },
+   {
+    "a": "P",
+    "h": 1.99,
+    "id": "d27",
+    "l": "Google One",
+    "o": 1.99,
+    "t": "fixe"
+   },
+   {
+    "a": "P",
+    "h": 3.99,
+    "id": "d28",
+    "l": "reMarkable",
+    "o": 3.99,
+    "t": "fixe"
+   },
+   {
+    "a": "P",
+    "h": 13.09,
+    "id": "d29",
+    "l": "Offre Esprit Libre (frais BNP)",
+    "o": 13.09,
+    "t": "fixe"
+   },
+   {
+    "a": "P",
+    "h": 66,
+    "id": "d41",
+    "l": "Abonnement parking Yespark",
+    "o": 66,
+    "t": "fixe"
+   },
+   {
+    "a": "P",
+    "fin": "2026-10-26",
+    "h": 81.69,
+    "id": "d30",
+    "l": "Cardif IARD (jusqu'au 3 novembre)",
+    "o": 81.69,
+    "t": "fixe"
+   },
+   {
+    "a": "C",
+    "debut": "2026-10-26",
+    "h": 44,
+    "id": "d42",
+    "l": "Assurance habitation GMF (à partir du 4 novembre)",
+    "o": 44,
+    "t": "fixe"
+   },
+   {
+    "a": "P",
+    "h": 19,
+    "id": "d32",
+    "l": "Eau CGE Occitanie (à transférer)",
+    "o": 19,
+    "t": "fixe"
+   },
+   {
+    "a": "P",
+    "h": 13.29,
+    "id": "d33",
+    "l": "Mutuelle d'assurance des armées (à transférer)",
+    "o": 13.29,
+    "t": "fixe"
+   },
+   {
+    "a": "F",
+    "h": 140,
+    "id": "q01",
+    "l": "Carburant",
+    "o": 250,
+    "t": "contraint"
+   },
+   {
+    "a": "P",
+    "h": 119,
+    "id": "q02",
+    "l": "Carburant",
+    "o": 0,
+    "t": "contraint"
+   },
+   {
+    "a": "F",
+    "h": 113.5,
+    "id": "q03",
+    "l": "Trajets, transports",
+    "o": 230,
+    "t": "contraint"
+   },
+   {
+    "a": "P",
+    "h": 44,
+    "id": "q04",
+    "l": "Trajets, transports",
+    "o": 0,
+    "t": "contraint"
+   },
+   {
+    "a": "F",
+    "h": 444,
+    "id": "q06",
+    "l": "Courses perso",
+    "o": 320,
+    "t": "choisi"
+   },
+   {
+    "a": "P",
+    "h": 273,
+    "id": "q07",
+    "l": "Courses perso",
+    "o": 0,
+    "t": "choisi"
+   },
+   {
+    "a": "F",
+    "h": 28,
+    "id": "q08",
+    "l": "Retraits, chèques",
+    "o": 0,
+    "t": "choisi"
+   },
+   {
+    "a": "P",
+    "h": 187,
+    "id": "q09",
+    "l": "Retraits, chèques",
+    "o": 50,
+    "t": "choisi"
+   },
+   {
+    "a": "F",
+    "h": 4,
+    "id": "q10",
+    "l": "Coiffeur",
+    "o": 0,
+    "t": "choisi"
+   },
+   {
+    "a": "P",
+    "h": 12,
+    "id": "q11",
+    "l": "Coiffeur",
+    "o": 20,
+    "t": "choisi"
+   },
+   {
+    "a": "F",
+    "h": 4,
+    "id": "q12",
+    "l": "Achats tech",
+    "o": 0,
+    "t": "choisi"
+   },
+   {
+    "a": "F",
+    "h": 44,
+    "id": "q13",
+    "l": "Achats sport",
+    "o": 15,
+    "t": "choisi"
+   },
+   {
+    "a": "F",
+    "h": 0,
+    "id": "brico-f",
+    "l": "Bricolage",
+    "o": 0,
+    "t": "choisi"
+   },
+   {
+    "a": "P",
+    "h": 4,
+    "id": "q14",
+    "l": "Achats sport",
+    "o": 0,
+    "t": "choisi"
+   },
+   {
+    "a": "P",
+    "h": 0,
+    "id": "brico-p",
+    "l": "Bricolage",
+    "o": 0,
+    "t": "choisi"
+   },
+   {
+    "a": "F",
+    "h": 67,
+    "id": "q15",
+    "l": "Sorties, loisirs, vacances",
+    "o": 60,
+    "t": "choisi"
+   },
+   {
+    "a": "P",
+    "h": 43,
+    "id": "q16",
+    "l": "Sorties, loisirs, vacances",
+    "o": 0,
+    "t": "choisi"
+   },
+   {
+    "a": "F",
+    "h": 5,
+    "id": "q17",
+    "l": "Musique, livres",
+    "o": 10,
+    "t": "choisi"
+   },
+   {
+    "a": "P",
+    "h": 18,
+    "id": "q18",
+    "l": "Musique, livres",
+    "o": 0,
+    "t": "choisi"
+   },
+   {
+    "a": "F",
+    "h": 141,
+    "id": "q19",
+    "l": "Autre",
+    "o": 70,
+    "t": "choisi"
+   },
+   {
+    "a": "P",
+    "h": 43,
+    "id": "q20",
+    "l": "Autre",
+    "o": 0,
+    "t": "choisi"
+   },
+   {
+    "a": "F",
+    "h": 73,
+    "id": "q21a",
+    "l": "Achats en ligne",
+    "o": 20,
+    "t": "superflu"
+   },
+   {
+    "a": "F",
+    "h": 2,
+    "id": "q21",
+    "l": "Autre",
+    "o": 0,
+    "t": "superflu"
+   },
+   {
+    "a": "P",
+    "h": 57,
+    "id": "q22a",
+    "l": "Achats en ligne",
+    "o": 0,
+    "t": "superflu"
+   },
+   {
+    "a": "P",
+    "h": 97,
+    "id": "q22",
+    "l": "Autre",
+    "o": 0,
+    "t": "superflu"
+   },
+   {
+    "a": "F",
+    "h": 8,
+    "id": "q90",
+    "l": "Santé",
+    "o": 15,
+    "t": "contraint"
+   },
+   {
+    "a": "F",
+    "h": 18,
+    "id": "q91",
+    "l": "Garage",
+    "o": 50,
+    "t": "contraint"
+   },
+   {
+    "a": "P",
+    "adj": true,
+    "debut": "2026-09-26",
+    "fin": "2026-10-26",
+    "h": 112.55,
+    "id": "x1",
+    "l": "Allianz Vie prélevée sur le perso le 01/10 (trimestriel, passe sur le commun en novembre)",
+    "o": 112.55,
+    "t": "fixe"
+   },
+   {
+    "a": "P",
+    "adj": true,
+    "debut": "2026-09-26",
+    "fin": "2026-10-26",
+    "h": 100,
+    "id": "x2",
+    "l": "Virement mensuel reçu le 28/09 : 200 € au lieu de 300 €",
+    "o": 100,
+    "t": "fixe"
+   },
+   {
+    "a": "F",
+    "adj": true,
+    "debut": "2026-09-26",
+    "fin": "2026-10-26",
+    "h": 300,
+    "id": "x3",
+    "l": "Virement mensuel reçu le 30/09 : 800 € au lieu de 1 100 €",
+    "o": 300,
+    "t": "fixe"
+   }
+  ],
+  "peaCible": 500,
+  "rev": [
+   {
+    "id": "r1",
+    "l": "Solde de Jo (depuis le 25/09/2026)",
+    "v": 6074.59
+   },
+   {
+    "id": "r2",
+    "l": "Remboursements UNEO",
+    "v": 50
+   },
+   {
+    "id": "r3",
+    "l": "Autres rentrées (BlaBlaCar, Vinted…)",
+    "v": 40
+   }
+  ],
+  "tF": 1100,
+  "tP": 300
+ },
+ "entries": [
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-11T15:19:06.974Z",
+   "env": "fortuneo",
+   "montant": 10.48,
+   "note": "Courses",
+   "poste": "Courses perso",
+   "type": "choisi",
+   "id": "02br3e4hgpholfiqwww5"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-10T15:29:51.881Z",
+   "env": "fortuneo",
+   "montant": 64.98,
+   "note": "Décathlon",
+   "poste": "Achats sport",
+   "type": "choisi",
+   "id": "0pgr12ydlbkw6bomwkcs"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-02T05:56:29.032Z",
+   "env": "fortuneo",
+   "montant": 1.84,
+   "note": "Pdj du 02 oct",
+   "type": "superflu",
+   "id": "0u04md6uf8pdxcsoqb03"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-05T06:40:03.878Z",
+   "env": "fortuneo",
+   "montant": 0.5,
+   "note": "Café",
+   "type": "choisi",
+   "id": "15d2p64gtk0qofvcp79m"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-15T16:12:36.522Z",
+   "env": "fortuneo",
+   "montant": 8.9,
+   "note": "Bricomarché (agraphes) Sajardime",
+   "poste": "Courses perso",
+   "type": "choisi",
+   "id": "1e79twyk3p1dbb486t4r"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-07T19:36:08.565Z",
+   "env": "fortuneo",
+   "montant": 51,
+   "note": "Tickets métro Paris",
+   "poste": "Trajets, transports",
+   "type": "contraint",
+   "id": "1iti26t18ppm1t2ccou3"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-05T16:16:10.783Z",
+   "env": "fortuneo",
+   "montant": 5,
+   "note": "Chapelet (La Procure)",
+   "poste": "Autre",
+   "type": "choisi",
+   "id": "20ivsovdrzbuhz6aew2m"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-15T16:14:40.805Z",
+   "env": "fortuneo",
+   "montant": 1,
+   "note": "Courses perso",
+   "poste": "Courses perso",
+   "type": "contraint",
+   "id": "3fzpf0hogdmyxoaarnar"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-16T07:26:03.298Z",
+   "env": "bnp",
+   "montant": 37.8,
+   "note": "Trajet vers Laurac",
+   "poste": "Trajets, transports",
+   "type": "contraint",
+   "id": "3sz94lyflg6p4d4qpncb"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-04T06:15:05.026Z",
+   "env": "fortuneo",
+   "montant": 10.5,
+   "note": "Croissants",
+   "type": "choisi",
+   "id": "4nakiw1mc10y0tj4djk1"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-03T16:05:33.628Z",
+   "env": "renfl",
+   "montant": 250,
+   "note": "",
+   "type": "choisi",
+   "id": "4rcxg0g3j9algk9ts0n9"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-14T18:13:27.884Z",
+   "env": "fortuneo",
+   "montant": 31.98,
+   "note": "Décathlon 14/10",
+   "poste": "Courses perso",
+   "type": "choisi",
+   "id": "63ux9age1je3auumorkv"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-03T09:11:01.682Z",
+   "env": "hors",
+   "montant": 268.43,
+   "note": "Entretien Mégane",
+   "type": "contraint",
+   "id": "7fgncl0yd11osrs0lph2"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-12T13:40:03.758Z",
+   "env": "fortuneo",
+   "montant": 26,
+   "note": "Train retour 15/10",
+   "poste": "Trajets, transports",
+   "type": "contraint",
+   "id": "7lu5vaeftc4ovmol287j"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-09T07:19:14.858Z",
+   "env": "fortuneo",
+   "montant": 18,
+   "note": "Train retour Italie",
+   "poste": "Trajets, transports",
+   "type": "contraint",
+   "id": "8ihdz88f51pym3y40xal"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-05T04:42:10.742Z",
+   "env": "fortuneo",
+   "montant": 5.1,
+   "note": "Café Starbucks",
+   "type": "superflu",
+   "id": "8ygzlx2i6syvh288fvh8"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-07T10:22:38.542Z",
+   "env": "fortuneo",
+   "montant": 26,
+   "note": "Train 08/10",
+   "poste": "Trajets, transports",
+   "type": "contraint",
+   "id": "9212mdiggscy9qlpufov"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-12T13:42:08.020Z",
+   "env": "fortuneo",
+   "montant": 18,
+   "note": "Train 16/10 retour",
+   "poste": "Trajets, transports",
+   "type": "contraint",
+   "id": "9l3ray220f7knuhrzmwo"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-14T18:13:50.019Z",
+   "env": "fortuneo",
+   "montant": 17.96,
+   "note": "Courses 14/10",
+   "poste": "Courses perso",
+   "type": "contraint",
+   "id": "9mpciar9b82g5v5hx0th"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-05T16:15:56.708Z",
+   "env": "fortuneo",
+   "montant": 7,
+   "note": "Chapelet (La Procure)",
+   "poste": "Autre",
+   "type": "choisi",
+   "id": "9ta3c5xb8ramlt29wq3y"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-11T16:11:33.539Z",
+   "env": "fortuneo",
+   "montant": 26,
+   "note": "Train",
+   "poste": "Trajets, transports",
+   "type": "contraint",
+   "id": "a5sdsiq73h27izayntc0"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-09T12:39:01.983Z",
+   "env": "fortuneo",
+   "montant": 2.8,
+   "note": "Café",
+   "poste": "Autre",
+   "type": "superflu",
+   "id": "a7b6dy5oau1dt8gqdsta"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-04T15:55:55.561Z",
+   "env": "fortuneo",
+   "montant": 26,
+   "note": "Train Tours > Paris",
+   "poste": "Trajets, transports",
+   "type": "contraint",
+   "id": "adrpv0dsg2yohufiblni"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-03T07:25:07.240Z",
+   "env": "fortuneo",
+   "montant": 7.96,
+   "note": "Équerres Leroymerlin",
+   "poste": "Achats, équipement, cadeaux (Darty, Decathlon…)",
+   "type": "choisi",
+   "id": "avre3z2p5z3rfr7sp5wa"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-09-28T08:01:00.000Z",
+   "env": "bnp",
+   "montant": 24.95,
+   "note": "Aboutcar.io (CB 26/09)",
+   "poste": "Abonnements inutiles (Aboutcar, Carinfos…)",
+   "type": "superflu",
+   "id": "bnp-0928-aboutcar"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-09-28T08:04:00.000Z",
+   "env": "hors",
+   "montant": 343,
+   "note": "Selle de moto, eBay (CB perso 27/09, remboursée par le commun)",
+   "poste": "Achats, équipement, cadeaux (Darty, Decathlon…)",
+   "type": "choisi",
+   "id": "bnp-0928-ebay"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-09-28T08:03:00.000Z",
+   "env": "hors",
+   "montant": 253.61,
+   "note": "Feu Vert, entretien véhicule (CB perso 26/09, remboursé par le commun)",
+   "poste": "Garage",
+   "type": "contraint",
+   "id": "bnp-0928-feuvert"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-09-28T08:00:00.000Z",
+   "env": "bnp",
+   "montant": 22,
+   "note": "Google Play (CB 25/09)",
+   "poste": "Google Play, applis",
+   "type": "superflu",
+   "id": "bnp-0928-google"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-09-28T08:02:00.000Z",
+   "env": "bnp",
+   "montant": 30.49,
+   "note": "Temu (CB 26/09)",
+   "poste": "Achats en ligne",
+   "type": "superflu",
+   "id": "bnp-0928-temu"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-09-29T08:00:00.000Z",
+   "env": "bnp",
+   "montant": 10.5,
+   "note": "Hôtel de la Poste (CB 28/09)",
+   "type": "superflu",
+   "id": "bnp-0929-hotel-a"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-09-29T08:01:00.000Z",
+   "env": "bnp",
+   "montant": 10.5,
+   "note": "Hôtel de la Poste (CB 28/09)",
+   "type": "superflu",
+   "id": "bnp-0929-hotel-b"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-09-29T08:02:00.000Z",
+   "env": "bnp",
+   "montant": 24,
+   "note": "Planity, coiffeur (CB 28/09)",
+   "poste": "Coiffeur",
+   "type": "choisi",
+   "id": "bnp-0929-planity"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-09-30T08:00:00.000Z",
+   "env": "bnp",
+   "montant": 36,
+   "note": "Repas de groupe Hôtel de la Poste (CB 29/09) : 112,50 € avancés, 76,50 € remboursés",
+   "type": "superflu",
+   "id": "bnp-0930-repas-groupe"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-01T08:00:00.000Z",
+   "env": "bnp",
+   "montant": 19,
+   "note": "Hôtel de la Poste, repas (CB 30/09)",
+   "poste": "Sorties, loisirs, vacances",
+   "type": "choisi",
+   "id": "bnp-1001-hotel-19"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-01T08:01:00.000Z",
+   "env": "bnp",
+   "montant": 35,
+   "note": "Hôtel de la Poste, repas (CB 30/09)",
+   "poste": "Sorties, loisirs, vacances",
+   "type": "choisi",
+   "id": "bnp-1001-hotel-35"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-08T10:00:00.000Z",
+   "env": "bnp",
+   "montant": 14,
+   "note": "Chèque 8858242 (exceptionnel)",
+   "poste": "Autre",
+   "type": "choisi",
+   "id": "bnp-1008-cheque-14"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-09-30T10:00:00.000Z",
+   "env": "bnp",
+   "montant": 10.5,
+   "note": "Hôtel de la Poste (CB 29/09)",
+   "type": "superflu",
+   "id": "bnp-20260929-hotel-poste"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-01T09:00:00.000Z",
+   "env": "bnp",
+   "montant": 13.99,
+   "note": "Amazon Media (CB 30/09)",
+   "poste": "Achats en ligne",
+   "type": "superflu",
+   "id": "bnp-20260930-amazon-media"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-01T09:02:00.000Z",
+   "env": "bnp",
+   "montant": 30,
+   "note": "Prélèvement Cercle interarmées",
+   "type": "superflu",
+   "id": "bnp-20261001-cercle-interarmees"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-02T16:31:30.133Z",
+   "env": "fortuneo",
+   "montant": 8.95,
+   "note": "Pharmacie",
+   "poste": "Santé",
+   "type": "contraint",
+   "id": "c8c4rthnfpyitn4t986u"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-12T17:43:15.812Z",
+   "env": "fortuneo",
+   "montant": 5.7,
+   "note": "Bouffe 12/10",
+   "poste": "Courses perso",
+   "type": "contraint",
+   "id": "chvjctxvzpvmdnfy6m7c"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-01T17:19:44.926Z",
+   "env": "fortuneo",
+   "montant": 9.1,
+   "note": "Dîner BCC",
+   "poste": "Sorties, loisirs, vacances",
+   "type": "choisi",
+   "id": "cwzdt2z2y641bnc4x9rz"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-16T06:58:39.876Z",
+   "env": "fortuneo",
+   "montant": 0.5,
+   "note": "Autre",
+   "poste": "Autre",
+   "type": "superflu",
+   "id": "d6uiyd3obntrspvya9hr"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-05T11:04:37.561Z",
+   "env": "fortuneo",
+   "montant": 0.91,
+   "note": "Café",
+   "poste": "Autre",
+   "type": "superflu",
+   "id": "e69ogney4v7t8olalhrs"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-07T10:23:11.958Z",
+   "env": "fortuneo",
+   "montant": 18,
+   "note": "Train 09/10",
+   "poste": "Trajets, transports",
+   "type": "contraint",
+   "id": "eofuf83rkkwfdzkowuq4"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-15T06:57:52.423Z",
+   "env": "fortuneo",
+   "montant": 1.84,
+   "note": "Café 15/10",
+   "poste": "Autre",
+   "type": "superflu",
+   "id": "eq0vef09bfg16vlbm0hu"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-12T08:34:09.432Z",
+   "env": "fortuneo",
+   "montant": 0.58,
+   "note": "Thé Kunzi",
+   "poste": "Autre",
+   "type": "superflu",
+   "id": "erv2k1jgmnsevcuy9068"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-12T08:33:57.067Z",
+   "env": "fortuneo",
+   "montant": 0.5,
+   "note": "café",
+   "poste": "Autre",
+   "type": "superflu",
+   "id": "ey13yvhv86qenuqtvtgb"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-09-28T09:00:00.000Z",
+   "env": "fortuneo",
+   "montant": 154.29,
+   "note": "Auchan (CB 26/09)",
+   "poste": "Courses perso",
+   "type": "choisi",
+   "id": "f-0926-auchan"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-09-28T09:01:00.000Z",
+   "env": "fortuneo",
+   "montant": 28,
+   "note": "Château de Candé (CB 27/09)",
+   "poste": "Sorties, loisirs, vacances",
+   "type": "choisi",
+   "id": "f-0927-cande"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-09-28T09:02:00.000Z",
+   "env": "fortuneo",
+   "montant": 42.92,
+   "note": "Relais Tours, carburant (CB 27/09)",
+   "poste": "Carburant",
+   "type": "contraint",
+   "id": "f-0927-relais"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-09-28T09:03:00.000Z",
+   "env": "fortuneo",
+   "montant": 26,
+   "note": "SNCF (CB 27/09)",
+   "poste": "Trajets, transports",
+   "type": "contraint",
+   "id": "f-0927-sncf-a"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-09-28T09:04:00.000Z",
+   "env": "fortuneo",
+   "montant": 26,
+   "note": "SNCF (CB 27/09)",
+   "poste": "Trajets, transports",
+   "type": "contraint",
+   "id": "f-0927-sncf-b"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-09-29T09:00:00.000Z",
+   "env": "fortuneo",
+   "montant": 0.75,
+   "note": "Café Compass (CB 28/09)",
+   "poste": "Autre",
+   "type": "superflu",
+   "id": "f-0928-compass"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-01T09:00:00.000Z",
+   "env": "fortuneo",
+   "montant": 16.5,
+   "note": "Hôtel de la Poste, Bouillon (CB 30/09)",
+   "poste": "Sorties, loisirs, vacances",
+   "type": "choisi",
+   "id": "f-0930-hotel"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-06T09:00:00.000Z",
+   "env": "fortuneo",
+   "montant": 5.9,
+   "note": "Brioche Dorée (CB 05/10)",
+   "poste": "Sorties, loisirs, vacances",
+   "type": "choisi",
+   "id": "f-1005-brioche"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-07T09:00:00.000Z",
+   "env": "fortuneo",
+   "montant": 18,
+   "note": "SNCF (CB 06/10)",
+   "poste": "Trajets, transports",
+   "type": "contraint",
+   "id": "f-1006-sncf-18"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-10T09:45:07.414Z",
+   "env": "fortuneo",
+   "montant": 31.78,
+   "note": "Viande 10/10",
+   "poste": "Courses perso",
+   "type": "choisi",
+   "id": "gqkbii17fadst9tx84zm"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-12T13:39:18.129Z",
+   "env": "fortuneo",
+   "montant": 14,
+   "note": "Train retour 13/10",
+   "poste": "Trajets, transports",
+   "type": "contraint",
+   "id": "hsyxsdfclgg07sewdsv7"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-16T06:58:28.293Z",
+   "env": "fortuneo",
+   "montant": 1.84,
+   "note": "Pdj 15/10",
+   "poste": "Autre",
+   "type": "superflu",
+   "id": "iiizswrkiqa0jy2225ou"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-02T15:20:51.075Z",
+   "env": "fortuneo",
+   "montant": 65,
+   "note": "Contrôle technique moto (CBCT Monnaie, 02/10)",
+   "poste": "Garage",
+   "type": "contraint",
+   "id": "jyo404tsw2e0ln2t9oyn"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-13T14:11:51.487Z",
+   "env": "fortuneo",
+   "montant": 7.4,
+   "note": "Sandwich 13/10",
+   "poste": "Autre",
+   "type": "contraint",
+   "id": "jzrrqsz1oss0qrcbad2o"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-03T16:02:00.319Z",
+   "env": "hors",
+   "montant": 223.76,
+   "note": "Carte grise moto",
+   "type": "contraint",
+   "id": "kvueqi8dmv29eiuacyyf"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-12T14:15:54.928Z",
+   "env": "fortuneo",
+   "montant": 14,
+   "note": "Train aller 16/10",
+   "poste": "Trajets, transports",
+   "type": "contraint",
+   "id": "ma9c0cvn8cq7ewl2s6yz"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-05T08:14:39.547Z",
+   "env": "fortuneo",
+   "montant": 0.91,
+   "note": "Café",
+   "poste": "Autre",
+   "type": "superflu",
+   "id": "mzrpwuol11v9lxb9epcc"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-13T19:27:27.468Z",
+   "env": "fortuneo",
+   "montant": 45.39,
+   "note": "Courses perso",
+   "poste": "Courses perso",
+   "type": "choisi",
+   "id": "n2hnk6ge403icj97bnmz"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-09T04:34:55.299Z",
+   "env": "fortuneo",
+   "montant": 33.07,
+   "note": "Courses",
+   "poste": "Courses perso",
+   "type": "choisi",
+   "id": "n8ru0vwa7fwfr92i2cou"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-07T03:46:28.959Z",
+   "env": "fortuneo",
+   "montant": 2.8,
+   "note": "Café 07/10",
+   "poste": "Autre",
+   "type": "choisi",
+   "id": "nhrny8w6qse3l1zb5x40"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-12T08:33:45.134Z",
+   "env": "fortuneo",
+   "montant": 0.5,
+   "note": "café",
+   "poste": "Autre",
+   "type": "superflu",
+   "id": "nkflb2m33jiwz30wgq2s"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-01T18:04:25.109Z",
+   "env": "fortuneo",
+   "montant": 4.45,
+   "note": "Courses",
+   "poste": "Courses perso",
+   "type": "choisi",
+   "id": "nmu9zxpokxput6fgk797"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-12T17:42:51.823Z",
+   "env": "fortuneo",
+   "montant": 3.8,
+   "note": "Courses perso",
+   "poste": "Courses perso",
+   "type": "superflu",
+   "id": "nrhq48bytkmn46uzz59u"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-13T17:08:45.400Z",
+   "env": "fortuneo",
+   "montant": 29.89,
+   "note": "Agrapheuse Leroymerlin",
+   "poste": "Courses perso",
+   "type": "choisi",
+   "id": "ohvz9yiylb9bkjky33g2"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-16T09:18:21.102Z",
+   "env": "fortuneo",
+   "montant": 39.58,
+   "note": "Train Castelnaudary> St Pierre",
+   "poste": "Trajets, transports",
+   "type": "contraint",
+   "id": "p0d8f78tov8vgd7gh1ye"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-14T14:16:14.070Z",
+   "env": "renfl",
+   "montant": 300,
+   "note": "Renflouement Fortuneo 14/10",
+   "type": "choisi",
+   "id": "p3yyfnclih5qwm2yk9te"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-09T04:36:44.103Z",
+   "env": "fortuneo",
+   "montant": 2.8,
+   "note": "Café",
+   "poste": "Autre",
+   "type": "superflu",
+   "id": "q4ohui24ux857qgvzkg5"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-02T05:56:09.064Z",
+   "env": "fortuneo",
+   "montant": 0.5,
+   "note": "Café",
+   "type": "superflu",
+   "id": "q898nco0b7izerzufo9k"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-09T08:21:47.286Z",
+   "env": "fortuneo",
+   "montant": 0.5,
+   "note": "Café",
+   "poste": "Autre",
+   "type": "superflu",
+   "id": "qkt9bdpzjpw3lv60hjjw"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-03T09:01:13.526Z",
+   "env": "fortuneo",
+   "montant": 4.9,
+   "note": "Café Auchan attente garage",
+   "type": "choisi",
+   "id": "rbx7fzrcme9s174fqgf3"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-07T17:18:49.383Z",
+   "env": "fortuneo",
+   "montant": 8.38,
+   "note": "Courses perso",
+   "poste": "Courses perso",
+   "type": "choisi",
+   "id": "rdtwfnoguhvgku19jegr"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-09-28T10:00:00.000Z",
+   "env": "renfl",
+   "montant": 300,
+   "note": "Virement du commun vers Fortuneo (28/09)",
+   "type": "choisi",
+   "id": "renfl-0928-fortuneo-300"
+  },
+  {
+   "cycle": "2026-08-26",
+   "date": "2026-09-16T10:00:00.000Z",
+   "env": "renfl",
+   "montant": 350,
+   "note": "Renflouement de septembre (avant le 26/09) — les deux virements de 350 € du 28/09 remboursent Feu Vert et la selle",
+   "type": "choisi",
+   "id": "renfl-0930-350"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-10T10:00:00.000Z",
+   "env": "renfl",
+   "montant": 100,
+   "note": "100 € de la vente d'actions gardés sur Fortuneo (10/10)",
+   "type": "choisi",
+   "id": "renfl-1010-fortuneo-100"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-10T15:30:17.535Z",
+   "env": "fortuneo",
+   "montant": 35.6,
+   "note": "Produit vape",
+   "poste": "Autre",
+   "type": "choisi",
+   "id": "surpemipy3qilmps0gaq"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-10T15:30:44.303Z",
+   "env": "fortuneo",
+   "montant": 3.95,
+   "note": "Vin",
+   "poste": "Courses perso",
+   "type": "choisi",
+   "id": "t6fjjy2fslj5q11p8r95"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-02T15:51:57.410Z",
+   "env": "fortuneo",
+   "montant": 29.37,
+   "note": "Auchan Monnaie (CB 02/10)",
+   "poste": "Courses perso",
+   "type": "choisi",
+   "id": "tlb2fet3t0q1ceh9ix17"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-10T15:31:00.089Z",
+   "env": "fortuneo",
+   "montant": 9.99,
+   "note": "Maillot de bain Decathlon",
+   "poste": "Achats sport",
+   "type": "contraint",
+   "id": "ulopjvwma2fjex3nn114"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-12T13:39:51.019Z",
+   "env": "fortuneo",
+   "montant": 18,
+   "note": "Train aller 14/10",
+   "poste": "Trajets, transports",
+   "type": "contraint",
+   "id": "wahem0xcn6qdichkugn7"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-02T11:28:45.716Z",
+   "env": "fortuneo",
+   "montant": 46.25,
+   "note": "Déjeuner Garnier Julien",
+   "type": "superflu",
+   "id": "wxq51xd00shv1vmj5crh"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-09T07:16:13.583Z",
+   "env": "fortuneo",
+   "montant": 14,
+   "note": "Train départ Naples 17/10",
+   "poste": "Trajets, transports",
+   "type": "contraint",
+   "id": "xyrr2ba2ev2v6lqyonia"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-08T10:00:00.000Z",
+   "env": "hors",
+   "montant": 120,
+   "note": "Chèque 8858241 (exceptionnel, remboursé par le commun le 09/10)",
+   "poste": "Retraits, chèques",
+   "type": "choisi",
+   "id": "z0e0ioqhplpn2gspw4yq"
+  },
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-07T10:22:56.556Z",
+   "env": "fortuneo",
+   "montant": 14,
+   "note": "Train 09/10",
+   "poste": "Trajets, transports",
+   "type": "contraint",
+   "id": "z6uypc3it5ce0jhjn29r"
+  }
+ ],
+ "upc": [
+  {
+   "acct": "C",
+   "cycle": "2026-10-26",
+   "date": "2026-10-01T18:13:01.393Z",
+   "label": "pneus Jumpy",
+   "montant": 330,
+   "type": "contraint",
+   "id": "3o3znvf8ypsat7r363pq"
+  },
+  {
+   "acct": "C",
+   "cycle": "2026-10-26",
+   "date": "2026-10-12T17:44:45.094Z",
+   "label": "Groupe électrogène",
+   "montant": 1500,
+   "type": "contraint",
+   "id": "y10emmb9fohs2xn785r9"
+  }
+ ],
+ "envies": [
+  {
+   "cycle": "2026-09-26",
+   "date": "2026-10-12T09:08:14.378Z",
+   "decidedAt": "2026-10-13T19:27:36.629Z",
+   "label": "Vêtements Temu",
+   "montant": 97,
+   "statut": "renonce",
+   "id": "er3w3df19ij8us5hj7fd"
+  }
+ ]
+}
